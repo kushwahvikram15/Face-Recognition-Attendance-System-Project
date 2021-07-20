@@ -4,7 +4,7 @@
 ## Introduction
 Face recognition is one of the most important biometric recognition techniques. It is relatively simple to set up and covers an extensive range of applications varying from surveillance to digital marketing.
 
-##### This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
+##### This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run app.py file
 
 ##### Technology used : -openCV (Opensource Computer Vision) -Python -tkinter GUI interface
 
