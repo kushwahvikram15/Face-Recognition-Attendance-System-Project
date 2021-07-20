@@ -1,3 +1,4 @@
+
 # Face-Recognition-Attendance-System-Project
 
 ## Introduction
@@ -39,5 +40,5 @@ Software Used -
   * Pycharm 2019.2
   * Jupyter Notebook
   * Git
-  
+![Screenshot (121)](https://user-images.githubusercontent.com/46602864/126309688-146dfbd3-090c-4510-ab47-39eee2d77876.png)
 
